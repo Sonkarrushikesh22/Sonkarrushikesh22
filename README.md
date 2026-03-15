@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sonkarrushikesh22
 
-<!--
-**Sonkarrushikesh22/Sonkarrushikesh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding Activity
 
-Here are some ideas to get you started:
+This profile is powered by a local VS Code activity tracker that publishes logs and generated visuals to a dedicated activity repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data source: [activity-tracker](https://github.com/Sonkarrushikesh22/activity-tracker)
+
+### Activity Heatmap
+![Activity Heatmap](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/heatmap.svg)
+
+### Project Progress
+![Project Activity](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/activity-chart.svg)
+
+_Last setup sync: Sun, 15 Mar 2026 08:59:36 GMT_
