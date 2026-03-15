@@ -6,12 +6,12 @@ This profile is powered by a local VS Code activity tracker that publishes logs 
 
 Data source: [activity-tracker](https://github.com/Sonkarrushikesh22/activity-tracker)
 
-![Activity Summary](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/summary-card.svg)
+![Activity Summary](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/summary-card.svg?ts=1773572628878)
 
 ### Activity Heatmap
-![Activity Heatmap](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/heatmap.svg)
+![Activity Heatmap](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/heatmap.svg?ts=1773572628878)
 
 ### Project Progress
-![Project Activity](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/activity-chart.svg)
+![Project Activity](https://raw.githubusercontent.com/Sonkarrushikesh22/activity-tracker/main/visualizations/activity-chart.svg?ts=1773572628878)
 
-_Last setup sync: Sun, 15 Mar 2026 10:16:54 GMT_
+_Last setup sync: Sun, 15 Mar 2026 11:03:48 GMT_
